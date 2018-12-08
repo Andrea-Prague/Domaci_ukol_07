@@ -1,0 +1,3 @@
+﻿Napiš funkci, která dostane slovo a zjistí, jestli je v seznamu domácích zvířat.
+
+„Zjistí“ znamená, že funkce vrátí True nebo False.

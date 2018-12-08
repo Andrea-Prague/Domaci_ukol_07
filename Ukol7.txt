@@ -1,0 +1,9 @@
+﻿Napiš tyto funkce. Každá z nich dostane jako argument řetězec s~rodným číslem a nějak ho zanalyzuje:
+
+Je ve správném formátu: 6 číslice, lomítko, 4 číslice? (vrací True nebo False)
+Je dělitelné jedenácti? (vrací True nebo False)
+Jaké datum narození je v čísle zakódováno? (vrací trojici čísel – den, měsíc, rok)
+Jaké pohlaví je v čísle zakódováno? (vrací 'muž' nebo 'žena')
+Napiš i testy, abys ověřila, že funkce fungují správně.
+
+Pro účely úkolu stačí, když bude program umět zpracovat čísla vydávaná od roku 1985. Reálná rodná čísla můžou být složitější :)
